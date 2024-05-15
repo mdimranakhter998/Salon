@@ -1,0 +1,235 @@
+C:\Users\Inginious\source\repos\Insight Salon\bin\Insight Salon.dll.config
+C:\Users\Inginious\source\repos\Insight Salon\bin\Insight Salon.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\Insight Salon.pdb
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\csc.exe
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\csc.exe.config
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\csc.rsp
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\csi.exe
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\csi.exe.config
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\csi.rsp
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.AppContext.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Console.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.IO.Compression.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Net.Http.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.ValueTuple.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\vbc.exe
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\vbc.exe.config
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\vbc.rsp
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Inginious\source\repos\Insight Salon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Inginious\source\repos\Insight Salon\bin\Antlr3.Runtime.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\Newtonsoft.Json.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.Helpers.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.Mvc.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.Optimization.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.Razor.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.WebPages.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.WebPages.Razor.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\WebGrease.dll
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.Helpers.xml
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.Mvc.xml
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.Optimization.xml
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.Razor.xml
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.WebPages.xml
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Inginious\source\repos\Insight Salon\bin\System.Web.WebPages.Razor.xml
+C:\Users\Inginious\source\repos\Insight Salon\bin\Newtonsoft.Json.xml
+C:\Users\Inginious\source\repos\Insight Salon\bin\Antlr3.Runtime.pdb
+C:\Users\Inginious\source\repos\Insight Salon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Inginious\source\repos\Insight Salon\obj\Debug\Insight Salon.csproj.CoreCompileInputs.cache
+C:\Users\Inginious\source\repos\Insight Salon\obj\Debug\Insight Salon.csproj.CopyComplete
+C:\Users\Inginious\source\repos\Insight Salon\obj\Debug\Insight Salon.dll
+C:\Users\Inginious\source\repos\Insight Salon\obj\Debug\Insight Salon.pdb
+C:\Users\Inginious\source\repos\Insight Salon\obj\Debug\Insight Salon.csproj.AssemblyReference.cache
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Insight Salon.dll.config
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Insight Salon.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Insight Salon.pdb
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\csc.exe
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\csc.exe.config
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\csc.rsp
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\csi.exe
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\csi.exe.config
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\csi.rsp
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.AppContext.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Console.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Net.Http.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\vbc.exe
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\vbc.exe.config
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\vbc.rsp
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Antlr3.Runtime.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Newtonsoft.Json.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.Helpers.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.Mvc.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.Optimization.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.Razor.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.WebPages.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\WebGrease.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.Helpers.xml
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.Mvc.xml
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.Optimization.xml
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.Razor.xml
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.WebPages.xml
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Newtonsoft.Json.xml
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Antlr3.Runtime.pdb
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\obj\Debug\Insight Salon.csproj.AssemblyReference.cache
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\obj\Debug\Insight Salon.csproj.CoreCompileInputs.cache
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\obj\Debug\Insight Salon.csproj.CopyComplete
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\obj\Debug\Insight Salon.dll
+C:\Users\Vimlesh Yadav\Downloads\Insight Salon (1)\Insight Salon\obj\Debug\Insight Salon.pdb
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\Insight Salon.dll.config
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\Insight Salon.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\Insight Salon.pdb
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\csc.exe
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\csc.exe.config
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\csc.rsp
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\csi.exe
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\csi.exe.config
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\csi.rsp
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.Managed.Core.targets
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.AppContext.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Collections.Immutable.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Console.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Globalization.Calendars.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.IO.Compression.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.IO.FileSystem.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Net.Http.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Net.Sockets.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Reflection.Metadata.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.ValueTuple.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Xml.XmlDocument.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Xml.XPath.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\vbc.exe
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\vbc.exe.config
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\vbc.rsp
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\VBCSCompiler.exe
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\roslyn\VBCSCompiler.exe.config
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\Antlr3.Runtime.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\Microsoft.Web.Infrastructure.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\Newtonsoft.Json.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.Helpers.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.Mvc.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.Optimization.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.Razor.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.WebPages.Deployment.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.WebPages.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.WebPages.Razor.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\WebGrease.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.Helpers.xml
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.Mvc.xml
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.Razor.xml
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.WebPages.xml
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.WebPages.Deployment.xml
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\System.Web.WebPages.Razor.xml
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\Newtonsoft.Json.xml
+E:\###DEVELOPMENT###\SALON\Insight Salon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\###DEVELOPMENT###\SALON\Insight Salon\obj\Debug\Insight Salon.csproj.AssemblyReference.cache
+E:\###DEVELOPMENT###\SALON\Insight Salon\obj\Debug\Insight Salon.csproj.CoreCompileInputs.cache
+E:\###DEVELOPMENT###\SALON\Insight Salon\obj\Debug\Insight Salon.csproj.CopyComplete
+E:\###DEVELOPMENT###\SALON\Insight Salon\obj\Debug\Insight Salon.dll
+E:\###DEVELOPMENT###\SALON\Insight Salon\obj\Debug\Insight Salon.pdb

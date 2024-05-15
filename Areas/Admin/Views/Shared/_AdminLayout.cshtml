@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+
+    @*Custom fonts for this template*@
+
+    <link href="~/Scripts/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+          rel="stylesheet">
+
+    <!-- Custom styles for this template-->
+
+
+    <title>@ViewBag.Title </title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/css/admin-salon.min.css" rel="stylesheet" />
+</head>
+<body class="">
+
+
+    @*<div class="container body-content">*@
+    <div id="wrapper">
+        @Html.Partial("_Sidebar")
+        <div id="content-wrapper" class="d-flex flex-column">
+
+            <!-- Main Content -->
+            <div id="content">
+                @Html.Partial("_Header")
+                @RenderBody()               
+            </div>
+        </div>
+    </div>
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+
+
+
+    @*</div>*@
+    <!-- Bootstrap core JavaScript-->
+
+
+    <script src="~/Scripts/vendor/jquery/jquery.min.js"></script>
+    <script src="~/Scripts/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Core plugin JavaScript-->
+
+    <script src="~/Scripts/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+
+    <script src="~/Scripts/js/salon-admin-min.js"></script>
+    <!-- Page level plugins -->
+    <script src="~/Scripts/chart.js/Chart.min.js"></script>
+    <!-- Page level custom scripts -->
+    <script src="~/Scripts/js/demo/chart-pie-demo.js"></script>
+    <script src="~/Scripts/js/demo/chart-area-demo.js"></script>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
